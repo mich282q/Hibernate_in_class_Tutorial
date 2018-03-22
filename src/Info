@@ -1,0 +1,24 @@
+/*
+Michael Trans
+Date: 2018
+Michael_trans@hotmail.com
+ */
+
+
+https://www.tutorialspoint.com/hibernate/hibernate_overview.htm
+
+
+
+ORM
+
+objekt <--> DB
+det hedder Pojo = Plain old Java object
+
+
+Hibernate 10 - 11 jar filer
+
+Main
+Hibernate.cfg.xml <--> conecte
+Employ. java <-->  DB
+      pojo          SQL
+employe.hbm.xml
